@@ -42,7 +42,7 @@ An interactive multi-page Power BI dashboard built to analyze employee demograph
 * `Employee Attrition & Retention.png` — Screenshot of the employee turnover, retention trends, and attrition driver analysis page.
 * `Attendance Analytics.png` — Screenshot of the employee attendance, leave, and absenteeism tracking page.
 * `Promotion and career growth.png` — Screenshot of the internal mobility, promotion rate, and career progression page.
-* `*.pbix` — *(Upload your Power BI project file here so recruiters can explore the data model and DAX measures)*
+
 
 ---
 
